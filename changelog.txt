@@ -1,0 +1,45 @@
+Spaced Out 4 v0.0.6-prealpha
+Copyright (C) Jacob Farnsworth
+
+Changelog:
+
+Pre-alpha Build 6 (v0.0.6-prealpha)
+- Add a new music track
+- Add a new encounter to Callisto Gamma
+- Small improvements to the combat AI
+- Add baseside materials trader
+- The game now pauses automatically when the window loses focus
+
+Pre-alpha Build 5 (v0.0.5-prealpha)
+- Add music support
+- Add several new music tracks
+- Fixes to the mission 2 campaign script
+- Various dialogue changes
+
+Pre-alpha Build 4 (v0.0.4-prealpha)
+- Variation in background shader tint color
+- Fixes to dialogue UI
+- Add Ceres sectors, new asteroid fields
+- Add Callisto Gamma sector and political border
+
+Pre-alpha Build 3 (v0.0.3-prealpha)
+- Vignette camera
+- Dialogue
+- Savegames now include global variables
+- Lots of new Lua functions
+- Rough draft of campaign mission 1
+- Disable vsync in favor of an upper framerate cap of 120
+- Various bugfixes
+
+Pre-alpha Build 2 (v0.0.2-prealpha)
+- Pausing, game can now be paused by opening in-game menus
+- Added loading screen
+- Added title graphic
+- Improved savegame loading and fixed several crashes related to savegames
+- Several UI tweaks and QOL changes
+- Changes to notifications and how they're presented, addressed notification spam
+- Mission payouts now send notifications
+- Various bugfixes
+
+Pre-alpha Build 1 (v0.0.1-prealpha)
+- First public build!

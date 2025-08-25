@@ -1,0 +1,63 @@
+# ---- CMake build files ----
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# ---- Build directories ----
+/build/
+/out/
+/bin/
+/lib/
+/dist/
+
+# ---- MinGW-w64 / GCC artifacts ----
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.la
+*.def
+*.exp
+*.obj
+*.o
+*.pch
+*.pdb
+
+# ---- Generated files ----
+*.ilk
+*.idb
+*.mod
+*.smod
+*.log
+
+# ---- Editor/IDE files ----
+# (Uncomment based on your editor)
+# Visual Studio Code
+.vscode/
+# CLion / JetBrains
+.idea/
+cmake-build-*/
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# ---- Windows OS clutter ----
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ---- Other ----
+*.swp
+*~
